@@ -1,0 +1,4 @@
+# Streamlit bike app requirements
+streamlit==1.38.0
+pillow
+# Add other dependencies here if needed
